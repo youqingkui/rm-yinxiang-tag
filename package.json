@@ -1,0 +1,8 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "^1.2.0",
+    "evernote": "^1.25.7"
+  }
+}
